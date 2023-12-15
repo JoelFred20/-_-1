@@ -1,11 +1,11 @@
-#IRIS FLOWER CLASSIFICATION
+# IRIS FLOWER CLASSIFICATION
 
 
-#Introduction
+# Introduction
 
 This GitHub repository contains a Jupyter notebook demonstrating a simple machine learning workflow using the famous Iris dataset. The workflow covers data exploration, model training, evaluation, and visualization of decision boundaries. Two different classifiers are used: Support Vector Machine (SVM) and K-Nearest Neighbors (KNN).
 
-#Contents
+# Contents
 
 Installation of Necessary Libraries
 
@@ -46,12 +46,13 @@ Making Predictions using KNN Model
 
 A K-Nearest Neighbors (KNN) model is created, trained, and evaluated on the Iris dataset.
 
-How to Use
+# How to Use
 
 Clone the repository: git clone https://github.com/JoelFred20/oibsip_taskno1.git
 
 Open the Jupyter notebook in your preferred environment.
 
 Run each cell sequentially to observe the step-by-step process.
+
 
 Feel free to modify the code, experiment with different models, or explore additional analyses based on your interests.
